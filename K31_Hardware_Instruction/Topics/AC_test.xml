@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone2-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">AC test</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">AC test</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">AC test module provide the basic function, allow user manually or automatically output voltages, currents and frequencies statically or as ramped outputs.</text></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Prerequisites for testing</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">It is not necessary set the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Test_Object" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Test Object</link><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> prior to testing, but this setting will helpful in the testing.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Define the hardware, the routing and wiring and trip commands.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Define the Set mode, Variable, Test mode, Prefault, etc in the &quot;Test Parameter&quot; tab of main view. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><anchor id="analog_output_ac" styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;"><keywords><keyword translate="true">analog_output_ac</keyword></keywords></anchor><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Analog Outputs</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Analog outputs provides 11 set modes for 2 group of 3-Phase network. Depends to the hardware of voltage channels of relay test kit model, voltage channels of group 2 may be disabled automatically.</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="11" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">1. Direct</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Line-Neutral</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">2. Line-Line</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Symmetrical, allow set line-line voltage, V0, phase currents and angles, All the frequency value is got from Fnom of Device tab in Test Object.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">3. Symmetrical</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set for V1, V2, V0, I1, I2, I0 and angles.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">4. Powers</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set real power(W), reactive power(var), phase voltages and angles. </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">5. Fault value</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set for fault type, voltage, current and angle.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">6. Z-I Const</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set the fault type, fault impedance and angle or resistance R and reactance X, with constant current. the fault voltage calculated by module.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">7. Z-V Const</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set the fault type, fault impedance and angle or resistance R and reactance X, with constant voltage. the fault current calculated by module.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">8. Z-Zs Const</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set the fault type, fault impedance and angle or resistance R and reactance X, with constant SIR(ZS/ZL), the fault current and voltage calculated by module.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">9. Z%-I Const</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set the fault type, fault impedance in % of line length, constant angle, with constant current. the fault voltage calculated by module.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">10. Z%-V Const</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set the fault type, fault impedance in % of line length, constant angle, with constant voltage. the fault current calculated by module.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">11. Z%-Zs Const</text></para>
+        </td>
+        <td style="width:829px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide set the fault type, fault impedance in % of line length, constant angle, with constant SIR(ZS/ZL), the fault current and voltage calculated by module.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Buttons and Options</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="13" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0100.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Provide a prefault state output in manual mode. This button only available in manual mode.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0101.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;" translate="true">&#32;</text><image src="clip0102.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Start fault simulate.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Keyboard shortcut &quot;F5&quot;</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0103.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;" translate="true">&#32;</text><image src="clip0104.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Stop fault simulate.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Keyboard shortcut &quot;F6&quot;</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0105.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">In manual mode, Increase the value of currently variables;</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">In automatic mode, start fault simulate in positive direction by step value. If step value &gt; 0, then the limit value must &gt; currently variable value setting; else while step value &lt; 0, the limit value must &lt; currently variable value setting.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Keyboard shortcut is &quot;F2&quot;</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0106.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The function reversed to </text><image src="clip0105.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;" translate="true">&#32;</text><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt; font-style:normal;" translate="true">button.</text></para>
+          <para styleclass="Normal"><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt; font-style:normal;" translate="true">Keyboard shortcut is &quot;F3&quot;</text></para>
+          <para styleclass="Normal"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0107.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Lock the currently output value, allow set the analog value you want, then release this button for a transient signal. This button only available in manual mode.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0108.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable this option for automatic stop outputs while received trigger command met the Result Trigger Logic.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0109.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable this option shift to auto-step mode.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0110.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable this option to activate the prefault state in auto-step mode. the prefault output value allow custom settings, usually V=Vnom, I=0;</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">This option only available for auto-step mode.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable this option will become as the pulse ramping mode.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0111.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Define the output time for prefault state.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0112.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Prefault state will switch to fault state by a Binary inputs command or time was met.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0113.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Prefault state will switch to fault state by a keyboard command.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><image src="clip0114.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td style="width:831px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable this option to add a state after the fault state, the time and value of fault interval allow custom settings.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable this option will become as the pulse ramping mode.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Variable setting</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">At default, AC test provided 2 variables for the controlling steps. Each variable can be any channel(s) and any quantity of amplitude, phase angle or frequency, user can through various combinations achieve the test.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">User can use </text><image src="clip0115.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Image Caption" style="font-size:12pt; font-style:normal;" translate="true"> button to enter the advance mode, the advance mode allow user add variables &gt; 2; in advance mode, the border of </text><image src="clip0115.png" scale="100.00%" styleclass="Image Caption" style="font-size:12pt;"></image><text styleclass="Image Caption" style="font-size:12pt; font-style:normal;" translate="true"> button will display in Red color </text><image src="clip0116.png" scale="100.00%" styleclass="Image Caption" style="font-size:12pt;"></image><text styleclass="Image Caption" style="font-size:12pt;" translate="true">.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">UX config</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Set the Ux channel output during the shot testing.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="2" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Custom</text></para>
+        </td>
+        <td style="width:752px;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">This mode allow user manually define the Ux output.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">+3U0,</text></para>
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">-3U0,</text></para>
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">+√3*3U0,</text></para>
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">-√3*3U0</text></para>
+        </td>
+        <td style="width:752px;">
+          <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">These modes will automatically calculate the Ux output from the 3-phase network.</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

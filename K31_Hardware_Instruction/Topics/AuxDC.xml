@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Complete" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">AuxDC</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">AuxDC</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Auxiliary DC output, simulate the battery supply. See: </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Auxiliary_DC" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Auxiliary DC Source (Battery Simulator)</link></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0061.png" scale="80.00%" width="260" height="308" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal3" style="font-family:Verdana; font-size:12pt;" translate="true">Once AuxDC start output, on startup page and status bar of all test modules will showing the AuxDC as Green color.</text></para>
+    <para styleclass="Normal"><image src="clip0062.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image><text styleclass="Normal3" style="font-family:Verdana; font-size:12pt;" translate="true">&#32;</text><image src="clip0063.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Complete" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Topic: 3.6 Auxiliary DC Source (Battery Simulator)</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Auxiliary DC Source (Battery Simulator)</text></para>
+    </header>
+    <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">&#32;</text><anchor id="TOP" styleclass="Normal text" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;"></anchor></para>
+    <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="3" colcount="2">
+      <tr style="vertical-align:top">
+        <td style="width:35%;">
+          <para styleclass="Normal"><image src="clip0145.png" scale="70.00%" width="337" height="182" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Model: </text><var styleclass="Normal" style="font-family:Verdana; font-size:12pt;">&lt;%K3130I%&gt;</var><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> &amp; </text><var styleclass="Normal" style="font-family:Verdana; font-size:12pt;">&lt;%K3163I%&gt;</var></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:35%;">
+        </td>
+        <td>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:35%;">
+          <para styleclass="Normal"><image src="clip0146.png" scale="50.00%" width="334" height="174" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+        </td>
+        <td>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Model: </text><var styleclass="Normal" style="font-family:Verdana; font-size:12pt;">&lt;%K3166I%&gt;</var></para>
+          <para styleclass="Normal"></para>
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal_p" style="font-family:Verdana; font-size:12pt; font-weight:bold; font-style:italic; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Note: </text><text styleclass="quote" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:italic; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Auxiliary DC output from Ub(positive) and Uc(negative) terminals. Auxiliary DC can not simultaneous working with AC mode of Channel Ub &amp; Uc. once Auxiliary DC activated, Channels Ub and Uc AC mode outputs will automatically disable to invalid.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">&#32;</text></para>
+    <para styleclass="Normal_de_tbl_424" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table rowcount="2" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#a0a0a0; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:30%;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Range</text></para>
+        </td>
+        <td style="width:288px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">0~350V @ 140W max</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:30%;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Accuracy</text></para>
+        </td>
+        <td style="width:288px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">0.5%Rg Guar.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">&#32;</text></para>
+  </body>
+</topic>

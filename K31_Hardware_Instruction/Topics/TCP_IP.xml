@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Complete" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">TCP/IP</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">TCP/IP</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Set and edit the IP address of test kit for communicate and control.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Also display the general information of connected test kit.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0057.png" scale="70.00%" width="537" height="338" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">See: </text><link displaytype="text" defaultstyle="true" type="topiclink" href="CommunicationSetting" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Communication Setting</link></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
