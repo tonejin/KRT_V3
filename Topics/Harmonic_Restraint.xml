@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone2-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Harmonic Restraint</title>
+  <keywords>
+    <keyword translate="true">Harmonic_Restraint</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Harmonic Restraint</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The Harmonic Restraint module is checking the correct relay behavior of the harmonic restraint of differential function. it contains &quot;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Shot_Test_Harmonic" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Shot Test</link><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">&quot; and &quot;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="Search_Test_Harmonic" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Search Test</link><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">&quot; 2 modes.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Each test mode creates a test table. The module will performing the table list determine the shot or search.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">For a search line consists of several shots, the Idiff was given and the Percentage of harmonics is calculated and searching for each search line.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Three currents are required for Harmonic Restraint test, it is carried out on the reference winding side.</text></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Prerequisites for testing</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The setting and characteristics of the relay under test have to be defined in the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Differential_Object" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Differential tab of Test Object</link><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> prior to testing.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Define the hardware, the routing and wiring and trip commands.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Define the Test time, Trigger config, etc in the &quot;</text><link displaytype="text" defaultstyle="true" type="topiclink" href="General_Harmonic" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">General</link><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">&quot; tab of main view. </text></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Differential Characteristic View</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Differential Harmonic Characteristic view is separated by the Harmonic count.</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass=" " style="font-family:Verdana; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Place the focus on the Differential Harmonic Characteristic view, Hold down and drag the mouse to draw a rectangular to zoom in the selected area.</text></para>
+  </body>
+</topic>

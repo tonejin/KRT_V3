@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="Complete" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Support</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Support</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal3" style="font-family:Verdana; font-size:12pt;" translate="true">Include Upgrade and License management.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal3" style="font-family:Verdana; font-size:12pt;" translate="true">Upgrade provide for firmware upgrade.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal3" style="font-family:Verdana; font-size:12pt;" translate="true">License management need authorized. for renews the optional functions.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Firmware upgrade rocess</text></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Verdana; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt; font-style:normal;" translate="true">connect the relay test kit and power on;</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Verdana; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt; font-style:normal;" translate="true">Run the KRT software, enter to &quot;upgrade&quot; window, load the new firmware &quot;kfzynq_kfupgrade_vx.x.x.x.zip&quot; and press upgrade. (</text><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt; font-weight:bold; font-style:normal;" translate="true">do not power off or disconnect the relay test kit during upgrading</text><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt; font-style:normal;" translate="true">)</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <list id="3" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Verdana; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Image Caption" style="font-family:Verdana; font-size:12pt; font-style:normal;" translate="true">waiting for below upgrade success message box.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="clip0096.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+  </body>
+</topic>

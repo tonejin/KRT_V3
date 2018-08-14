@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone2-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Fault Transfer tab</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Fault Transfer tab</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">This tab allow user enable a transfer fault impedance and the start reference.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Transfer fault impedance defined at the input fields &quot;|Z|&quot;, &quot;Phi&quot;, &quot;R&quot;, &quot;X&quot; by keyboard entry. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Transfer time defined the start reference, it may happened in the first fault state or reclosed state. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Turn time defined the transfer time from the start reference.</text></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

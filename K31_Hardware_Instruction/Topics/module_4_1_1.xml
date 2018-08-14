@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="helpproject.xsl" ?>
+<topic template="Default" status="Complete" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd">
+  <title translate="true">Topic: 3.1.1 K3166i (7x300V / 6x32A)</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Model: 7x310V / 6x35A</text></para>
+    </header>
+    <para styleclass="Heading HowTo_atoc_"><var styleclass="Heading HowTo_atoc_">Model No.: &lt;%K3166I%&gt;</var></para>
+    <para styleclass="Normal_de_tbl_497" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table rowcount="8" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#a0a0a0; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td colspan="3" style="width:500px;">
+          <para styleclass="Heading2" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Heading2" style="font-family:Arial; font-size:12pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#4f87fd; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Voltage sources</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3" style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Range &amp; Power</text></para>
+        </td>
+        <td style="width:181px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">7×310 Vac (L-N)</text></para>
+        </td>
+        <td style="width:172px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">90 VA max each</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:181px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">3×620 Vac (L-L)</text></para>
+        </td>
+        <td style="width:172px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">180 VA max each</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:181px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">3×350 Vdc (L-N)</text></para>
+        </td>
+        <td style="width:172px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">140 W max each</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Accuracy</text></para>
+        </td>
+        <td colspan="2" style="width:356px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">AC: &lt;0.03%Rd + 0.01Rg Typ.</text></para>
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true"> &#160; &#160; &#160;&lt;0.07%Rd + 0.03Rg Guar.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="2" style="width:356px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">DC: ±10mV @ &lt;5V, ±0.5% @ </text><text styleclass="de_787313cbad" style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">≥</text><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">5V</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Resolution</text></para>
+        </td>
+        <td colspan="2" style="width:356px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">1mV</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Distortion</text></para>
+        </td>
+        <td colspan="2" style="width:356px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">&lt;0.05% Typ. / &lt;0.1% Guar.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true"> &#160;</text></para>
+    <para styleclass="Normal_de_tbl_497" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table rowcount="9" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#a0a0a0; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td colspan="3" style="width:501px;">
+          <para styleclass="Heading2" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Heading2" style="font-family:Arial; font-size:12pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#4f87fd; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Current sources</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="4" style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Range &amp; Power</text></para>
+        </td>
+        <td style="width:181px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">6×35Aac (L-N)</text></para>
+        </td>
+        <td style="width:173px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">480 VA max each</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:181px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">3×70Aac (2L-N)</text></para>
+        </td>
+        <td style="width:173px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">850 VA max each</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:181px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">1×100Aac (6L-N)</text></para>
+        </td>
+        <td style="width:173px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">1200 VA max</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:181px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">3×20Adc (L-N)</text></para>
+        </td>
+        <td style="width:173px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">300W max each</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Accuracy</text></para>
+        </td>
+        <td colspan="2" style="width:357px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">AC: &lt;0.05%Rd + 0.02Rg Typ.</text></para>
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true"> &#160; &#160; &#160;&lt;0.15%Rd + 0.05Rg Guar.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td colspan="2" style="width:357px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">DC: ±5mA @ &lt;1A, ±0.5% @ </text><text styleclass="de_787313cbad" style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">≥</text><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">1A</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Resolution</text></para>
+        </td>
+        <td colspan="2" style="width:357px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">1mA</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:143px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Distortion</text></para>
+        </td>
+        <td colspan="2" style="width:357px;">
+          <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="de_e85041fdea" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">&lt;0.05% Typ. / &lt;0.1% Guar.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal_p" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true"> &#160;</text></para>
+    <para styleclass="Normal_de_tbl_497" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table rowcount="7" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:1px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#a0a0a0; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td colspan="2" style="width:500px;">
+          <para styleclass="Heading2" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Heading2" style="font-family:Arial; font-size:12pt; font-weight:bold; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#4f87fd; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Frequency and Phase Angle</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:234px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Frequency Range</text></para>
+        </td>
+        <td style="width:264px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">DC~1KHz, 3KHz transient</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:234px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Frequency Accuracy</text></para>
+        </td>
+        <td style="width:264px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">±0.5ppm</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:234px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Frequency Resolution</text></para>
+        </td>
+        <td style="width:264px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">0.001 Hz</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:234px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Phase Range</text></para>
+        </td>
+        <td style="width:264px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">-360° ~ +360°</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:234px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Phase Accuracy</text></para>
+        </td>
+        <td style="width:264px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">&lt;0.05° Typ. / &lt;0.1° Guar. 50/60Hz</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:234px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">Phase Resolution</text></para>
+        </td>
+        <td style="width:264px;">
+          <para styleclass="Normal_p" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="p" style="font-family:Arial; font-size:12pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;" translate="true">0.001°</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="line-height:1.0; tabstops:none;"></para>
+  </body>
+</topic>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone2-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Binary Setting tab</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Binary Setting tab</text></para>
+    </header>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" translate="true">Binary Input Define</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Define the binary input 1/2/3 as single pole or 3 poles, The binary input 4 defined as &quot;Reclose&quot; command.</text></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Binary Output define</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">This table allow user define the binary output independently.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Column explain:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="7" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Binary output</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Active the specify binary outputs and set the initial status.</text></para>
+          <para styleclass="Normal"><image src="clip0124.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> Disabled</text></para>
+          <para styleclass="Normal"><image src="clip0125.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> Initial as NO status.</text></para>
+          <para styleclass="Normal"><image src="clip0126.png" scale="100.00%" styleclass="Image Caption"></image><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> Initial as NC status.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="3">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Reference mode</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">1. Reference fault: Binary output turnover function start from the start of fault time.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">2. Reference prefault: &#160;Binary output turnover function start from the start of prefault time.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">3. Reference input: Binary output turnover function start from the defined binary input trigger.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Reference binary in</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Define the reference binary input channel.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Delay time</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Binary outputs after this time will be turnover</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Hold time</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" translate="true">Keeping time after the binary output turnover</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

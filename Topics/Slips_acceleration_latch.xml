@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone2-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Slips acceleration latch</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Slips acceleration latch</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">This function performing a ramping df/dt on the Vg side, simulating a slips acceleration to test the synchronization relay from a action permitted to latched status. the first latched df/dt value as the result will returned.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">In this function test, the voltage and frequency of Vg side must set as met the synchronization conditions.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The ramping df/dt value defined by the &quot;From&quot;, &quot;To&quot; and &quot;Step&quot; settings.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The syncing cycle time automatically calculated by the module.</text></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Process on Vg side:</text></para>
+    <para styleclass="Normal"><image src="sync_dfdt.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

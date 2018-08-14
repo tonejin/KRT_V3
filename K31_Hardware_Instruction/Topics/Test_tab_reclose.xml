@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone2-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Test tab</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Test tab</text></para>
+    </header>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Add Test Points</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Tests are defined in the impedance plane, Adding test points can be achieved by right click on the impedance plane, or enter the test point parameters into the input fields &quot;|Z|&quot;, &quot;Phi&quot;, &quot;R&quot;, &quot;X&quot; by keyboard entry. </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">All test points are added to a test table. This table will automatically sorted by the defined fault type and linked to the impedance view.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="line-height:1.15;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Base on the selected fault type and test points and fault model (I constant / V constant / Z constant), the voltages or currents at the relay location are calculated automatically and displayed on the Vector View.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Buttons:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="5" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Add</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">add the defined point to the test table below.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Add Multi...</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">quickly add multiple fault type of a defined sequence point.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Delete</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">delete the currently selected test point from the Test points list.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Delete All</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">clear the test list</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Check</text></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">perform testing currently selected test point.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Options:</text></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><table styleclass="Default" rowcount="2" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><image src="clip0118.png" scale="100.00%" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">set fixed value for the coefficient of DPFC relay.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><image src="clip0119.png" scale="100.00%" styleclass="Image Caption"></image></para>
+        </td>
+        <td style="width:778px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable this option for permanent fault simulate, the fault still exist after reclose state. by default, module is set as transient mode.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass=" " style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.0; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Result</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">All test points given a trip time, reclose time and second trip(post-acceleration) time.</text></para>
+  </body>
+</topic>

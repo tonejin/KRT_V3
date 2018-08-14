@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="430075988877667" build="CHM,EBOOK,HTML" modified="2018-08-08T13:49:05.782Z" icon="0" href="application">
+    <caption translate="true">Top</caption>
+  </topicref>
+  <topicref type="topic" id="432013035117056" build="ALL" modified="2018-08-09T17:24:26.782Z" icon="0" href="Software_Instruction">
+    <caption translate="true">Software Instruction</caption>
+    <topicref type="topic" id="432045347937854" build="ALL" modified="2018-04-14T16:38:47.056Z" icon="0" href="Basic_Concept">
+      <caption translate="true">Basic Concept</caption>
+    </topicref>
+    <topicref type="topic" id="433135176376715" build="ALL" modified="2018-08-09T17:50:13.587Z" icon="0" href="Inatallation">
+      <caption translate="true">Installation</caption>
+    </topicref>
+    <topicref type="topic" id="432014152656934" modified="2018-07-24T09:43:42.489Z" icon="0" href="Prepare">
+      <caption translate="true">Prepare</caption>
+    </topicref>
+    <topicref type="topic" id="432014595539148" build="ALL" modified="2018-05-03T16:04:26.350Z" icon="0" href="CommunicationSetting">
+      <caption translate="true">Communication Setting</caption>
+    </topicref>
+    <topicref type="topic" id="432018877488410" build="ALL" modified="2018-04-11T17:10:35.578Z" icon="0" href="Start_Page">
+      <caption translate="true">Start Page</caption>
+      <topicref type="topic" id="432042626289467" build="ALL" modified="2018-05-03T16:04:38.602Z" icon="0" href="TestFunctionCategory">
+        <caption translate="true">Test Function Category</caption>
+        <topicref type="topic" id="432025896502421" build="ALL" modified="2018-04-12T14:09:52.799Z" icon="0" href="Basic">
+          <caption translate="true">Basic</caption>
+        </topicref>
+        <topicref type="topic" id="432025594364294" build="ALL" modified="2018-04-12T14:13:08.371Z" icon="0" href="Advance">
+          <caption translate="true">Advance</caption>
+        </topicref>
+        <topicref type="topic" id="432027724168097" build="ALL" modified="2018-04-12T14:14:09.984Z" icon="0" href="IEC61850">
+          <caption translate="true">IEC61850</caption>
+        </topicref>
+        <topicref type="topic" id="432045313593464" build="ALL" modified="2018-04-14T08:26:30.471Z" icon="0" href="Additional">
+          <caption translate="true">Additional</caption>
+        </topicref>
+        <topicref type="topic" id="432027008334105" build="ALL" modified="2018-04-12T14:16:16.131Z" icon="0" href="Test_Center">
+          <caption translate="true">Test Center</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="432042849280282" build="ALL" modified="2018-04-14T08:30:16.187Z" icon="0" href="Configure">
+        <caption translate="true">Configure</caption>
+        <topicref type="topic" id="432016316256174" build="ALL" modified="2018-04-11T18:10:09.132Z" icon="0" href="System_Settings">
+          <caption translate="true">System configuration</caption>
+          <topicref type="topic" id="432026080950577" build="ALL" modified="2018-04-12T10:12:37.202Z" icon="0" href="Device_Config">
+            <caption translate="true">Device Config</caption>
+          </topicref>
+          <topicref type="topic" id="43202870344410" build="ALL" modified="2018-05-03T16:04:59.952Z" icon="0" href="Analogoutputconnection">
+            <caption translate="true">Analog output connection</caption>
+            <topicref type="topic" id="432014610203829" build="ALL" modified="2018-04-12T18:52:47.166Z" icon="0" href="Normal_Connection">
+              <caption translate="true">Normal Connection (6-Phase mode)</caption>
+            </topicref>
+            <topicref type="topic" id="432017887748579" build="ALL" modified="2018-04-12T18:52:58.928Z" icon="0" href="Differential_Relay_Test">
+              <caption translate="true">Differential Relay Test (6-Phase mode)</caption>
+            </topicref>
+            <topicref type="topic" id="43203678214627" build="ALL" modified="2018-04-11T16:51:43.692Z" icon="0" href="3-Phase_mode_connection">
+              <caption translate="true">3-Phase mode connection</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="432024837439720" build="ALL" modified="2018-04-12T10:01:35.240Z" icon="0" href="IEC61850_mode">
+            <caption translate="true">IEC61850 mode</caption>
+            <topicref type="topic" id="432023411964000" build="ALL" modified="2018-04-12T13:05:31.422Z" icon="0" href="IEC61850-9-1">
+              <caption translate="true">IEC61850-9-1 /2</caption>
+            </topicref>
+          </topicref>
+          <topicref type="topic" id="432026221658053" build="ALL" modified="2018-04-12T10:05:21.970Z" icon="0" href="Binary_input__outputs">
+            <caption translate="true">Binary input &amp; outputs</caption>
+            <topicref type="topic" id="432023726549777" build="ALL" modified="2018-04-12T10:02:04.945Z" icon="0" href="GOOSE_mode">
+              <caption translate="true">GOOSE mode</caption>
+            </topicref>
+            <topicref type="topic" id="432022666211710" build="ALL" modified="2018-04-12T13:48:24.245Z" icon="0" href="Hard_Contacts">
+              <caption translate="true">Hard Contacts (Relay type)</caption>
+            </topicref>
+          </topicref>
+        </topicref>
+        <topicref type="topic" id="432043410529650" build="ALL" modified="2018-04-14T08:31:00.380Z" icon="0" href="TCP_IP">
+          <caption translate="true">TCP/IP</caption>
+        </topicref>
+        <topicref type="topic" id="432044296431592" build="ALL" modified="2018-04-14T12:34:43.443Z" icon="0" href="Software_configuration">
+          <caption translate="true">Software configuration</caption>
+        </topicref>
+        <topicref type="topic" id="432047059460836" build="ALL" modified="2018-04-14T12:52:41.249Z" icon="0" href="AuxDC">
+          <caption translate="true">AuxDC</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="432044868003629" build="ALL" modified="2018-04-14T12:29:00.023Z" icon="0" href="Support">
+        <caption translate="true">Support</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="43204227231019" build="ALL" modified="2018-04-12T15:12:31.936Z" icon="0" href="Test_Modules_Overview">
+      <caption translate="true">Test Modules Overview</caption>
+      <topicref type="topic" id="432036672796850" build="ALL" modified="2018-05-03T16:05:35.864Z" icon="0" href="Menustatusbar">
+        <caption translate="true">Menu &amp; status bar</caption>
+      </topicref>
+      <topicref type="topic" id="43201354539855" build="ALL" modified="2018-04-12T15:26:43.814Z" icon="0" href="Test_View">
+        <caption translate="true">Test View</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="43201450071678" build="ALL" modified="2018-05-03T16:05:46.670Z" icon="0" href="TestCenter">
+      <caption translate="true">Test Center</caption>
+    </topicref>
+    <topicref type="topic" id="432026100649481" build="ALL" modified="2018-04-12T18:26:33.395Z" icon="0" href="Test_Object">
+      <caption translate="true">Test Object</caption>
+      <topicref type="topic" id="433022994768488" build="ALL" modified="2018-07-23T13:17:48.742Z" icon="0" href="TOS_filter">
+        <caption translate="true">Test Object Converter</caption>
+      </topicref>
+      <topicref type="topic" id="432046829181138" build="ALL" modified="2018-08-08T11:29:59.061Z" icon="0" href="Device_object">
+        <caption translate="true">Device object</caption>
+      </topicref>
+      <topicref type="topic" id="432047647910493" build="ALL" modified="2018-04-14T17:11:24.565Z" icon="0" href="Distance_Object">
+        <caption translate="true">Distance Object</caption>
+      </topicref>
+      <topicref type="topic" id="432054772553543" build="ALL" modified="2018-04-15T09:37:14.499Z" icon="0" href="Overcurrent_Object">
+        <caption translate="true">Overcurrent Object</caption>
+      </topicref>
+      <topicref type="topic" id="432284698509991" build="ALL" modified="2018-05-08T13:58:22.976Z" icon="0" href="Differential_Object">
+        <caption translate="true">Differential Object</caption>
+        <topicref type="topic" id="432288314633810" build="ALL" modified="2018-05-08T15:53:12.037Z" icon="0" href="Protection_Device_Tab">
+          <caption translate="true">Protection Device Tab</caption>
+        </topicref>
+        <topicref type="topic" id="432349467784246" modified="2018-08-07T17:02:40.853Z" icon="0" href="Protection_Device_Tab_2">
+          <caption translate="true">Protection Device Tab_2</caption>
+        </topicref>
+        <topicref type="topic" id="432287774700421" build="ALL" modified="2018-05-08T15:53:43.869Z" icon="0" href="Characteristic_Definition_Tab">
+          <caption translate="true">Characteristic Definition Tab</caption>
+        </topicref>
+        <topicref type="topic" id="432287756411079" build="ALL" modified="2018-05-08T15:53:57.491Z" icon="0" href="Harmonic_Tab">
+          <caption translate="true">Harmonic Tab</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="433026117357650" build="ALL" modified="2018-08-06T10:52:48.853Z" icon="0" href="Synchronizer_Object">
+        <caption translate="true">Synchronizer Object</caption>
+      </topicref>
+      <topicref type="topic" id="43300709939839" modified="2018-07-24T09:43:35.360Z" icon="0" href="Transducer_Object">
+        <caption translate="true">Transducer Object</caption>
+      </topicref>
+      <topicref type="topic" id="43304518494972" build="ALL" modified="2018-07-24T09:43:19.620Z" icon="0" href="Circuit_Breaker_Object">
+        <caption translate="true">Circuit Breaker Object</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433055960584738" build="ALL" modified="2018-07-24T09:51:14.560Z" icon="0" href="AC_test">
+      <caption translate="true">AC test</caption>
+      <topicref type="topic" id="433054941571680" modified="2018-07-24T14:58:45.446Z" icon="0" href="Set_Mode">
+        <caption translate="true">Set Mode</caption>
+      </topicref>
+      <topicref type="topic" id="433064151814468" build="ALL" modified="2018-07-25T11:54:21.949Z" icon="0" href="Result_View_AC">
+        <caption translate="true">Result View</caption>
+      </topicref>
+      <topicref type="topic" id="43306228454918" modified="2018-07-25T12:05:40.997Z" icon="0" href="Time_Signal_View">
+        <caption translate="true">Time Signal View</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433064494742973" build="ALL" modified="2018-08-08T12:52:29.686Z" icon="0" href="Ramping">
+      <caption translate="true">Ramping</caption>
+    </topicref>
+    <topicref type="topic" id="433068434635456" build="ALL" modified="2018-07-25T16:18:47.542Z" icon="0" href="Reclose">
+      <caption translate="true">Reclose</caption>
+      <topicref type="topic" id="433065431706566" build="ALL" modified="2018-07-25T17:14:30.421Z" icon="0" href="Test_tab_reclose">
+        <caption translate="true">Test tab</caption>
+      </topicref>
+      <topicref type="topic" id="43307355750531" build="ALL" modified="2018-07-25T18:30:48.683Z" icon="0" href="Fault_Transfer_tab">
+        <caption translate="true">Fault Transfer tab</caption>
+      </topicref>
+      <topicref type="topic" id="433067316798351" build="ALL" modified="2018-07-25T17:15:26.551Z" icon="0" href="Parameters_tab_reclose">
+        <caption translate="true">Parameters tab</caption>
+      </topicref>
+      <topicref type="topic" id="433068766321764" build="ALL" modified="2018-07-25T17:15:44.694Z" icon="0" href="Binary_Setting_tab_reclose">
+        <caption translate="true">Binary Setting tab</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433076944744286" build="ALL" modified="2018-07-26T13:15:37.881Z" icon="0" href="StateSequencer">
+      <caption translate="true">StateSequencer</caption>
+    </topicref>
+    <topicref type="topic" id="433114189556517" build="ALL" modified="2018-07-30T13:37:52.062Z" icon="0" href="Harmonic">
+      <caption translate="true">Harmonic</caption>
+    </topicref>
+    <topicref type="topic" id="433116726929113" build="ALL" modified="2018-07-30T13:54:27.083Z" icon="0" href="Transplay">
+      <caption translate="true">Transplay</caption>
+    </topicref>
+    <topicref type="topic" id="432055698090120" build="ALL" modified="2018-04-15T13:40:09.798Z" icon="0" href="Distance">
+      <caption translate="true">Distance</caption>
+      <topicref type="topic" id="432294919909384" build="ALL" modified="2018-07-24T09:25:10.401Z" icon="0" href="Shot_Test">
+        <caption translate="true">Shot Test tab</caption>
+      </topicref>
+      <topicref type="topic" id="432293888732483" build="ALL" modified="2018-07-24T09:25:15.191Z" icon="0" href="Search_Test">
+        <caption translate="true">Search Test tab</caption>
+      </topicref>
+      <topicref type="topic" id="432055174346632" build="ALL" modified="2018-07-24T09:25:20.325Z" icon="0" href="Test_Parameter">
+        <caption translate="true">Test Parameter tab</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433028145384909" build="ALL" modified="2018-07-21T17:05:01.181Z" icon="0" href="Overcurrent">
+      <caption translate="true">Overcurrent</caption>
+      <topicref type="topic" id="433042991051983" build="ALL" modified="2018-07-24T09:25:25.936Z" icon="0" href="Test_Point">
+        <caption translate="true">Test Point tab</caption>
+      </topicref>
+      <topicref type="topic" id="433043071734036" build="ALL" modified="2018-07-24T09:25:29.986Z" icon="0" href="Setting_Parameter">
+        <caption translate="true">Setting Parameter tab</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433053219330219" build="ALL" modified="2018-08-08T16:36:31.783Z" icon="0" href="Differential_modules">
+      <caption translate="true">Differential</caption>
+      <topicref type="topic" id="433055426749163" build="ALL" modified="2018-08-08T16:36:36.742Z" icon="0" href="Differential">
+        <caption translate="true">Bias Curve Diff.</caption>
+        <topicref type="topic" id="433057372533015" build="ALL" modified="2018-07-24T13:18:06.851Z" icon="0" href="Shot_Test_tab_2">
+          <caption translate="true">Shot Test tab</caption>
+        </topicref>
+        <topicref type="topic" id="433057032044715" build="ALL" modified="2018-07-24T13:18:10.473Z" icon="0" href="Search_Test_tab_2">
+          <caption translate="true">Search Test tab</caption>
+        </topicref>
+        <topicref type="topic" id="433053488263871" build="ALL" modified="2018-07-24T13:18:15.129Z" icon="0" href="General_tab_2">
+          <caption translate="true">General tab</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="433053487050372" build="ALL" modified="2018-07-24T13:22:40.464Z" icon="0" href="Harmonic_Restraint">
+        <caption translate="true">Harmonic Restraint</caption>
+        <topicref type="topic" id="433056234037911" build="ALL" modified="2018-07-24T14:28:06.527Z" icon="0" href="Shot_Test_Harmonic">
+          <caption translate="true">Shot Test tab</caption>
+        </topicref>
+        <topicref type="topic" id="433056287925331" build="ALL" modified="2018-07-24T14:28:11.536Z" icon="0" href="Search_Test_Harmonic">
+          <caption translate="true">Search Test tab</caption>
+        </topicref>
+        <topicref type="topic" id="433055315775497" build="ALL" modified="2018-07-24T14:28:15.050Z" icon="0" href="General_Harmonic">
+          <caption translate="true">General tab</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433115962245559" build="ALL" modified="2018-07-30T15:03:49.537Z" icon="0" href="Frequency_Test">
+      <caption translate="true">Frequency Test</caption>
+      <topicref type="topic" id="433122554125262" build="ALL" modified="2018-07-31T09:29:45.266Z" icon="0" href="Low-Frequency_mode">
+        <caption translate="true">Under-Frequency mode</caption>
+        <topicref type="topic" id="433125075029285" build="ALL" modified="2018-07-31T09:25:04.589Z" icon="0" href="Frequency">
+          <caption translate="true">Frequency</caption>
+        </topicref>
+        <topicref type="topic" id="433124498739339" build="ALL" modified="2018-07-31T09:25:35.560Z" icon="0" href="Time">
+          <caption translate="true">Time</caption>
+        </topicref>
+        <topicref type="topic" id="433122618827175" build="ALL" modified="2018-08-13T17:57:16.696Z" icon="0" href="Df_dt">
+          <caption translate="true">df/dt Latch</caption>
+        </topicref>
+        <topicref type="topic" id="433123500663803" build="ALL" modified="2018-08-02T10:29:26.365Z" icon="0" href="Under-Voltage_Lockout">
+          <caption translate="true">Under-U Latch</caption>
+        </topicref>
+        <topicref type="topic" id="433122930808980" build="ALL" modified="2018-08-02T10:29:31.901Z" icon="0" href="Under-Current_Lockout">
+          <caption translate="true">Under-I Latch</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="433124035351709" build="ALL" modified="2018-08-07T18:51:34.116Z" icon="0" href="Under-Voltage">
+        <caption translate="true">Under-Voltage mode</caption>
+        <topicref type="topic" id="43313552623992" build="ALL" modified="2018-07-31T09:32:06.443Z" icon="0" href="Voltage">
+          <caption translate="true">Voltage</caption>
+        </topicref>
+        <topicref type="topic" id="433125484432700" build="ALL" modified="2018-07-31T09:32:24.188Z" icon="0" href="Time_voltage">
+          <caption translate="true">Time</caption>
+        </topicref>
+        <topicref type="topic" id="433125655803516" build="ALL" modified="2018-08-13T17:58:53.645Z" icon="0" href="Dv_dt">
+          <caption translate="true">dv/dt Latch</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433135689657339" build="ALL" modified="2018-08-01T09:14:56.031Z" icon="0" href="Zero_Sequence">
+      <caption translate="true">Zero Sequence</caption>
+    </topicref>
+    <topicref type="topic" id="433135315490962" build="ALL" modified="2018-08-01T09:14:20.835Z" icon="0" href="Synchronizer">
+      <caption translate="true">Synchronizer</caption>
+      <topicref type="topic" id="43317474330449" build="ALL" modified="2018-08-04T13:52:47.165Z" icon="0" href="Action_voltage">
+        <caption translate="true">Action voltage</caption>
+      </topicref>
+      <topicref type="topic" id="433164306977564" build="ALL" modified="2018-08-04T13:53:02.659Z" icon="0" href="Action_Frequency">
+        <caption translate="true">Action Frequency</caption>
+      </topicref>
+      <topicref type="topic" id="433166010797938" build="ALL" modified="2018-08-04T13:53:16.733Z" icon="0" href="Angle___Time">
+        <caption translate="true">Angle / Time</caption>
+      </topicref>
+      <topicref type="topic" id="433167065404304" build="ALL" modified="2018-08-04T13:53:28.080Z" icon="0" href="Electric_Zero">
+        <caption translate="true">Electric Zero</caption>
+      </topicref>
+      <topicref type="topic" id="433167130103850" build="ALL" modified="2018-08-04T13:53:55.653Z" icon="0" href="Pulse_Width_Control-V">
+        <caption translate="true">Pulse Width Control-V</caption>
+      </topicref>
+      <topicref type="topic" id="433163990816676" build="ALL" modified="2018-08-04T13:54:04.069Z" icon="0" href="Pulse_Width_Control-F">
+        <caption translate="true">Pulse Width Control-F</caption>
+      </topicref>
+      <topicref type="topic" id="433164731813153" build="ALL" modified="2018-08-04T13:54:19.129Z" icon="0" href="Slips_acceleration_latch">
+        <caption translate="true">Slips acceleration latch</caption>
+      </topicref>
+      <topicref type="topic" id="433167737503601" build="ALL" modified="2018-08-04T13:54:36.077Z" icon="0" href="Auto_Synchronizer">
+        <caption translate="true">Auto Synchronizer</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="433131996813391" modified="2018-08-03T11:58:45.628Z" icon="0" href="Power_Swing">
+      <caption translate="true">Power Swing</caption>
+    </topicref>
+    <topicref type="topic" id="433132395706016" modified="2018-08-03T11:58:50.348Z" icon="0" href="TCS_Relay">
+      <caption translate="true">TCS Relay</caption>
+    </topicref>
+  </topicref>
+</map>
