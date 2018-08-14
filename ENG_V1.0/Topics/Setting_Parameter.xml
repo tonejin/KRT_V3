@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone1-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Setting Parameter tab</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Setting Parameter tab</text></para>
+    </header>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Max Fault time</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="2" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Max Fault time</text></para>
+        </td>
+        <td style="width:812px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Definite time for fault output if the trigger condition is not met.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Relative Max Time</text></para>
+        </td>
+        <td style="width:812px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Maximum fault time relative to Td. consider with the positive tolerance. This value have to be compare with max fault time.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The system always uses the smaller one of these time values. </text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> (Td: Time index scaling the time axis of the curve.)</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Fault Voltage</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="5" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Enable Fault Voltage</text></para>
+        </td>
+        <td style="width:776px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Select this option if you want to apply the fault voltage during the fault state.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">For directional relays, this option is always activated.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">For non-directional relays, voltage output may be necessary to aviod tripping of other relay functions.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">V Fault LN</text></para>
+        </td>
+        <td rowspan="2">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">These fields defined the voltage applied to the faulty phases during the fault state.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The LN voltage is applied for all fault types except for two-phase faults.</text></para>
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The LL voltage is applied for two-phase faults only.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">V Fault LL</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Nominal Voltage LN</text></para>
+        </td>
+        <td rowspan="2">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">These fields are for information and the values set in the </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Device</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> tab of </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Test Object</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Nominal Voltage LL</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Load Current</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="3" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Relative Nom</text></para>
+        </td>
+        <td style="width:776px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Set load current multiple by Inominal.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Relative Fault current</text></para>
+        </td>
+        <td style="width:776px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Set load current multiple by Ifault.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Load angle</text></para>
+        </td>
+        <td style="width:776px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The phase angle of load current.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Note:</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> if the added test points on the Overcurrent Characteristic shows in </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; color:#ff0000;" translate="true">RED</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> circle, and the assessment shows &quot;Load current too high&quot;, that means the test point cannot be tested, this is due to test module&apos;s constraints, please reduce the load current setting values.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

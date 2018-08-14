@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone2-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Ramping</title>
+  <keywords>
+    <keyword translate="true">Ramping</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Ramping</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The Ramping module is very similar like </text><link displaytype="text" defaultstyle="true" type="topiclink" href="AC_test" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">AC test</link><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> module, but allow user to management a ramping table to series ramping multiple states, each states allowed up to 8 variables maximum.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The results view allow user define a actual value and relative deviation for assessments.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

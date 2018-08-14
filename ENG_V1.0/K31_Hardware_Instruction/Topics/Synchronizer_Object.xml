@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="JinTone1-Template" lasteditedby="win7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Synchronizer Object</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Synchronizer Object</text></para>
+    </header>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">System 1 (Vs side)</text></para>
+    <para styleclass="Normal"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">This side simulated the power grid, it will as the reference for synchronization conditions.</text></para>
+    <para styleclass="Normal"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Rotation Sense: Set the Vs direction of the Vs side phase rotation</text></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">System 2 (Vg side)</text></para>
+    <para styleclass="Normal"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">This side simulated the generator side, it to be synchronizing to the Vs side.</text></para>
+    <para styleclass="Normal"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Rotation Sense: Set the direction of the Vg side phase rotation</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Setting</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="2" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">CB closing time</text></para>
+        </td>
+        <td style="width:344px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Displays the CB closing time as set in the CB tab of test object.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Transformer group phase shift</text></para>
+        </td>
+        <td style="width:344px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">This value is defined from an optional block or coupling transformer.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt;" translate="true">Synchronizer Characteristic</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="4" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#c0c0c0; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Voltage tolerances &amp; △v</text></para>
+        </td>
+        <td style="width:344px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Defined the maximum over-voltage(△v&gt;) and under-voltage(△v&lt;) with their tolerances. The larger of the relative and absolute tolerance will be used.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Frequency tolerances &amp; △f</text></para>
+        </td>
+        <td style="width:344px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Defined the maximum above synchronous(△f&gt;) and subsynchronous(△f&lt;) with their tolerances. The larger of the relative and absolute tolerance will be used.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Phase tolerances and Phase</text></para>
+        </td>
+        <td style="width:344px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Defined the phase shifts and their tolerances between the Vs and Vg side consideration with CB closure delays and coupling transformer. The larger of the relative and absolute tolerance will be used.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:25%;">
+          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Dead Zones (</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">╴</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">fmin &amp; </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">╴</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">fmax)</text></para>
+        </td>
+        <td style="width:344px;">
+          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The Dead Zones are areas when the synchronizing relay should not output any adjustment voltage and frequency control command</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>
