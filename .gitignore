@@ -20,3 +20,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Dr.Explain files
+*.chm
+*.chw
+*.pdf
+*.exe
