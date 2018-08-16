@@ -9,7 +9,7 @@
           <export-task name="Publish as CHM" format="CHM">
             <task-config-group name="settings">
               <task-config-value name="outputfile">KRT_V3.2_ENG.chm</task-config-value>
-              <task-config-value name="skin">..\..\..\..\..\Program Files (x86)\HelpAndManual6\Templates\HTML Skins\Integrated IFrames with Header - Blue.hmskin</task-config-value>
+              <task-config-value name="skin">C:\Program Files (x86)\EC Software\HelpAndManual6\Templates\HTML Skins\Integrated IFrames with Header - Blue.hmskin</task-config-value>
               <task-config-value name="deletetemp">1</task-config-value>
               <task-config-value name="make0include">CHM</task-config-value>
               <task-config-value name="make0status">*</task-config-value>
@@ -250,7 +250,6 @@
       <config-value name="imageshortcuts">clip0001.png;</config-value>
       <config-value name="make3include">HTML</config-value>
       <config-value name="make3status">*</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="user">
       <config-group name="win7">
@@ -258,10 +257,15 @@
           <config-value name="lastexport">3</config-value>
         </config-group>
       </config-group>
+      <config-group name="dell">
+        <config-group name="project">
+          <config-value name="lastexport">0</config-value>
+        </config-group>
+      </config-group>
     </config-group>
     <config-group name="chm">
       <config-value name="outputfile">KRT_V3.2_ENG.chm</config-value>
-      <config-value name="skin">..\..\..\..\..\Program Files (x86)\HelpAndManual6\Templates\HTML Skins\Integrated IFrames with Header - Blue.hmskin</config-value>
+      <config-value name="skin">C:\Program Files (x86)\EC Software\HelpAndManual6\Templates\HTML Skins\Integrated IFrames with Header - Blue.hmskin</config-value>
       <config-value name="deletetemp">1</config-value>
       <config-value name="usesecondarywindows">0</config-value>
       <config-value name="htmlpopuptextfile">CSHelp.txt</config-value>
