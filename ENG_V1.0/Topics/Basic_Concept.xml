@@ -6,47 +6,115 @@
     <header>
       <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Basic Concept</text></para>
     </header>
-    <para styleclass="Normal"><image src="clip0064.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">KRT can be considered as a </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">&quot;simple but still powerful&quot;</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> software for testing most complex protection relays, energy meters &amp; transducers etc. &#160;KRT finds its application at power utilities as well as at manufacturer&apos;s place. Kingsine&apos;s approach is to equip its customers with the all in one software with advance features inside. We have a fully automatic &quot; test center&quot; facility to test even the most typical multifunctional relays on a single click . </text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">KRT software using Test Center managing all the test parameters and control the testing procedure, All parameters in test center stored in a test template(.KRT format file). </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">The reason behind KRT&apos;s success lies in </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">&quot;your priceless feedbacks&quot;</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">. </text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Test results can export as RTF or XML format, RTF format for print purpose, like a .DOC file, XML format file can import to test center for review the testing scene.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">Yes, We have received and successfully incorporated numerous feedbacks from our esteemed customers &amp; team mates , making KRT a grand success . We believe that &quot;perfection is the continuous process&quot; &amp; we are always open for receiving better ideas to from your side </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">(contact us on email: tone@kingsine.com.cn).</text></para>
     <para styleclass="Normal"></para>
-    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">3 preparatory steps are required in order to ensure a successful test:</text></para>
-    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The scope of preparatory steps depends on the complexity of the desired test.</text></para>
-    <para styleclass="Normal" style="margin-left:0px;"><table styleclass="Default" rowcount="3" colcount="2">
-      <tr style="vertical-align:top">
-        <td style="width:5%;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">1.</text></para>
-        </td>
-        <td>
-          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Defining the hardware configurations of the test kit to match the specific modules.</text></para>
-        </td>
-      </tr>
-      <tr style="vertical-align:top">
-        <td style="width:5%;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">2.</text></para>
-        </td>
-        <td>
-          <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Entering relay settings in the </text><link displaytype="text" defaultstyle="true" type="topiclink" href="Test_Object" styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Test Object</link></para>
-        </td>
-      </tr>
-      <tr style="vertical-align:top">
-        <td style="width:5%;">
-          <para styleclass="Normal"><text styleclass="Normal" translate="true">3.</text></para>
-        </td>
-        <td>
-          <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Setting the binary inputs trigger conditions to which the relay contacts connected, to measure the trip time correctly</text></para>
-        </td>
-      </tr>
-    </table></para>
-    <para styleclass="Normal" style="margin-left:0px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">If these preparatory steps are completed, then go to test modules for particular test.</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">While using KRT a user can test &#160;-:</text></para>
+    <para styleclass="Normal"></para>
+    <list id="7" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Symbol; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">Complex relays using basic AC/DC Test Module . </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">Complex relays using Advance Test Modules </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">Multifunctional Relays ( Using test center )</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">IEC61850 enabled IED&apos;s ( GOOSE &amp; Sampled Values ) </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">Energy Meters</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">Transducers</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">Merging Units</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-weight:bold;" translate="true">Eagle Eye View - Relay Testing </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Relay is a switching device, which issues a trip command to the Circuit Breaker during abnormal fault conditions.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">A Relay receives the input signals from CT’s/ PT’s and its program calculates the fault conditions as per application. It issues a trip command to the Circuit Breaker on sensing a faulty condition.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Relay trip time (dT) &#160;is the time elapsed between the &quot;Arrival&quot; of fault condition and &quot;Issuing&quot; Trip command</text></para>
+    <para styleclass="Normal"><image id="RELAY LOGIC" src="relay1.jpg" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-weight:bold;" translate="true">Relay testing ( General Steps ) &#160;</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Step 1</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">: Relay Testing Kit injects fault in form of I &amp; V on respective CT &amp; PT points of Relay under test . The Timer of Relay Testing Kit </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">starts</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> at the moment of fault injection.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Step 2</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">: Relay senses the fault &amp; issues the trip command, its trip timing must depend on the time characteristics of relay settings.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Step 3</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">: Relay Testing Kit receives the trip command from Relay &amp; </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Stops</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> the timer.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Step 4</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">: The measured tripping time &amp; fault actuating characteristics are compared with respect to expected settings by Engineer. Test pass if the results are within the tolerance range else fails . </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-weight:bold;" translate="true">Kingsine&apos;s &quot; COM &quot; Terminology </text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">To start with KRT, user has to remember a simple </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">&quot;COM&quot; </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">terminology:</text></para>
+    <para styleclass="Normal"></para>
+    <list id="8" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Wingdings; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">C - </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">C</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">onnect &amp; </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">C</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">onfigure </text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <list id="8" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Wingdings; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">O - Define Test </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">O</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">bject </text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <list id="8" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Wingdings; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">M - Test </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">M</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">odule &#160;</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Eagle&apos;s Eye </text></para>
+    <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#46;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Verdana; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Connect &amp; Configure -</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">:</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">&quot;Connect&quot;</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> is the first step where user connects the relay test kit hardware with the KRT software ( installed on PC), Once the kit is connected user can see </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold; font-style:normal;" translate="true">&quot;connected</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">&quot;</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> status on the top right corner of the software . &#160; </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Second step is to &quot;Configure&quot;</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> ,This option is used by user to configure various settings as below -: </text></para>
+    <list id="10" level="2" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Wingdings; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The Analog I/P &amp; O/P rating &amp; characteristics (In System )</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The binary I/P &amp; O/P characteristics &#160;(In System)</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">The GOOSE &amp; Sample Value channels (In System)</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Naming Terminology for all Analog &amp; Binary channels &#160;(In Software). </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Select the voltage rating for Auxiliary DC Voltage Source (In Aux DC ) </text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">2. </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Define Test Object </text></para>
+    <para styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Each device under test (mostly relay) &#160;is having respective &quot;test settings &quot;. All these test object settings are mentioned in this &quot;Test Object&quot; section. Test Object section is used to &#160; -:</text></para>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <list id="11" type="ol" listtype="lower-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Verdana; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Defines relay&apos;s nominal &amp; fault conditions .</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <list id="11" type="ol" listtype="lower-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Verdana; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Defines relay&apos;s expected test results W.R.T those fault conditions .Once a test is done, actual test results are then automatically compared with the expected results from &quot;Test Object data&quot;. If the results are within the tolerance band of &quot;Test Object Settings&quot; the evaluation pass else fails.</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:24px;"></para>
+    <list id="11" type="ol" listtype="lower-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Verdana; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">Based on the values of</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true"> &quot;Test Object&quot;</text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> a visual test graphic is simulated for fault parameters, this helps user to </text></li>
+    </list>
+    <list id="12" level="5" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-left:24px; font-family:Wingdings; font-size:12pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> &#160; &#160; &#160; directly inject the fault by clicking on that Graph. </text></li>
+      <li styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true"> &#160; &#160; &#160; directly see the status of result ( pass/fail ) on the graph . </text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">3. Define Test Module </text></para>
+    <para styleclass="Normal" style="margin-left:24px;"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">This is the final step of the testing where </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">user enters in this respective test module and injects the fault </text><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true">, This section generally defines below parameters -:</text></para>
+    <list id="13" level="5" type="ul" listtype="bullet" formatstring="&#167;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="font-family:Wingdings; font-size:12pt; color:#000000;">
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> &#160; &#160; &#160; &#160;Fault Characteristics </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> &#160; &#160; &#160; &#160;Time delays &#160;( prefault time, fault time &amp; post fault time )</text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> &#160; &#160; &#160; &#160;Binary Inputs &amp; Outputs Trigger Logic </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> &#160; &#160; &#160; &#160;Visual Graphs defining faults under test </text></li>
+      <li styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt; font-weight:normal;" translate="true"> &#160; &#160; &#160; &#160;Different views such as vector view, Report View , Connection View, Time View etc.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
     <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">3 method to easy start a test:</text></para>
     <para styleclass="Normal"><image src="clip0066.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><image src="clip0067.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><image src="clip0068.png" scale="100.00%" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Heading HowTo_atoc_"><text styleclass="Heading HowTo_atoc_" style="font-family:Verdana; font-size:12pt; font-weight:bold;" translate="true">Different ways to import the settings .</text></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">KRT software is designed in a way that user can create the test plans &amp; test settings at each step . These settings/ test plans can be easily imported in the software making relay testing an effortless job to do . </text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="Normal" style="font-family:Verdana; font-size:12pt;" translate="true">In below schematic a user can clearly see the flow diagram during relay testing using KRT , Please note that the Yellow Coloured Boxes are the stages where user can save/ import the settings directly </text></para>
+    <para styleclass="Normal"><image src="krt2.png" scale="54.48%" width="1155" height="652" styleclass="Image Caption" style="font-family:Verdana; font-size:12pt;"></image></para>
+    <para styleclass="Normal"></para>
     <para styleclass="Normal"></para>
   </body>
 </topic>

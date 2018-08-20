@@ -250,12 +250,16 @@
       <config-value name="imageshortcuts">clip0001.png;</config-value>
       <config-value name="make3include">HTML</config-value>
       <config-value name="make3status">*</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="user">
       <config-group name="win7">
         <config-group name="project">
-          <config-value name="lastexport">3</config-value>
+          <config-value name="lastexport">0</config-value>
+        </config-group>
+      </config-group>
+      <config-group name="dell">
+        <config-group name="project">
+          <config-value name="lastexport">0</config-value>
         </config-group>
       </config-group>
     </config-group>
